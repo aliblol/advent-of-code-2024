@@ -1,3 +1,5 @@
+-- What is the total distance between your lists?
+-- distance = sum of the absolute differences between the corresponding elements of the two lists
 import System.IO
 import Data.List
 
